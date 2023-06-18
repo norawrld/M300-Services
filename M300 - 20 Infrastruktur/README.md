@@ -1,8 +1,13 @@
 Vagrant
 
-![image](https://github.com/norawrld/M300-Services/assets/87812697/93e2733c-9ab4-4929-b6fd-5fee52643aa1)
+![image](https://github.com/norawrld/M300-Services/assets/87812697/93e2733c-9ab4-4929-b6fd-5fee52643aa1)`
 
-MySQL
+MySQL Status
 
+sudo service mysql status
 ![image](https://github.com/norawrld/M300-Services/assets/87812697/2ede414d-3897-4338-92de-8aafb4f1a2cc)
 
+Apache Webserver Status
+
+sudo systemctl status apache2
+![image](https://github.com/norawrld/M300-Services/assets/87812697/19d7990d-a642-4dfa-8eed-7282450ac9be)
