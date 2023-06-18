@@ -36,6 +36,12 @@ VM erstellen und starten
 
 ![image](https://github.com/norawrld/M300-Services/assets/87812697/656fe2e8-3e0b-4376-ad4a-afee33699e83)
 
+Apache Webserver automatisiert aufsetzen
+# Install Apache web server
+sudo apt-get -y install apache2
+
+![image](https://github.com/norawrld/M300-Services/assets/87812697/e7d885f7-7435-43f3-8ad8-73ae12fb1a1f)
+
 
 05 - Visual Studio Code
 
