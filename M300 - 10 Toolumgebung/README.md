@@ -14,8 +14,10 @@ SSH-Key erstellen (lokal)
 ![image](https://github.com/norawrld/M300-Services/assets/87812697/c39a6f56-8539-4e34-bc3e-b365ea5b1a63)
 
 Client konfigurieren
+
 $ git config --global user.name "nora.memeti"
 $ git config --global user.email "nora.memeti@edu.tbz.ch"
+
 
 
 03 - VirtualBox
@@ -37,7 +39,7 @@ VM erstellen und starten
 ![image](https://github.com/norawrld/M300-Services/assets/87812697/656fe2e8-3e0b-4376-ad4a-afee33699e83)
 
 Apache Webserver automatisiert aufsetzen
-# Install Apache web server
+
 sudo apt-get -y install apache2
 
 ![image](https://github.com/norawrld/M300-Services/assets/87812697/e7d885f7-7435-43f3-8ad8-73ae12fb1a1f)
