@@ -7,6 +7,9 @@ Apache Webserver Status
 sudo systemctl status apache2
 ![image](https://github.com/norawrld/M300-Services/assets/87812697/19d7990d-a642-4dfa-8eed-7282450ac9be)
 
+![image](https://github.com/norawrld/M300-Services/assets/87812697/9d521910-bdf4-4144-a931-00d8f58bf545)
+
+
 MySQL Status
 
 sudo service mysql status
