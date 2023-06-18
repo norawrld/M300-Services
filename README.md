@@ -2,11 +2,7 @@
 ![image](https://github.com/norawrld/M300-Services/assets/87812697/6c1b5e7c-8296-4b8a-9d7d-1cda0d5b27d0)
 
 
-
 Config File meiner Vagrant VM:
-
-
-
 
 Vagrant.configure("2") do |config|
   config.vm.box = "ubuntu/xenial64"
