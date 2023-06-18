@@ -13,6 +13,11 @@ SSH-Key erstellen (lokal)
 
 ![image](https://github.com/norawrld/M300-Services/assets/87812697/c39a6f56-8539-4e34-bc3e-b365ea5b1a63)
 
+Client konfigurieren
+$ git config --global user.name "nora.memeti"
+$ git config --global user.email "nora.memeti@edu.tbz.ch"
+
+
 03 - VirtualBox
 
 ![image](https://github.com/norawrld/M300-Services/assets/87812697/e52ac1fe-e54c-40c5-a16e-925ba1ac462c)
