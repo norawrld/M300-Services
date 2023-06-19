@@ -19,6 +19,7 @@ sudo systemctl status apache2
 ![image](https://github.com/norawrld/M300-Services/assets/87812697/9d521910-bdf4-4144-a931-00d8f58bf545)
 
 Installation MySQL automatisiert:
+
 sudo debconf-set-selections <<< 'mysql-server mysql-server/root_password password mypassword'
 sudo debconf-set-selections <<< 'mysql-server mysql-server/root_password_again password mypassword'
 sudo apt-get -y install php libapache2-mod-php php-curl php-cli php-mysql php-gd mysql-client mysql-server
