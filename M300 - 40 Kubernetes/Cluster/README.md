@@ -2,6 +2,12 @@ Cluster erstellen:
 
 ![Screenshot 2023-07-10 003857](https://github.com/norawrld/M300-Services/assets/87812697/8e042e08-fc6e-428a-86a6-c009b61005c9)
 
+Cluster löschen:
+
+
+kubectl delete -f Cluster.yaml
+
+
 Port-Forwarding:
 
 ![Screenshot 2023-07-10 004358](https://github.com/norawrld/M300-Services/assets/87812697/9eeb0374-7246-4c5c-8c1b-a953d73e8a29)
