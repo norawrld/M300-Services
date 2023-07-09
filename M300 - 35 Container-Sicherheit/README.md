@@ -1,8 +1,5 @@
 Container sichern und beschränken:
 
-Image erstellen:
-![Screenshot 2023-07-09 235310](https://github.com/norawrld/M300-Services/assets/87812697/aab9bce7-093e-4cb1-bc5b-728f31c1b623)
-
 Dockerfile:
 
 FROM python:3.9
@@ -18,6 +15,12 @@ RUN chown -R appuser:appuser /app
 USER appuser
 
 CMD ["python", "app.py"]
+
+
+Image erstellen:
+![Screenshot 2023-07-09 235310](https://github.com/norawrld/M300-Services/assets/87812697/aab9bce7-093e-4cb1-bc5b-728f31c1b623)
+
+
 
 Container erstellen:
 ![Screenshot 2023-07-09 235501](https://github.com/norawrld/M300-Services/assets/87812697/ebb60fe1-b327-4bae-a28c-b008ed54280d)
