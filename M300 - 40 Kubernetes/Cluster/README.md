@@ -4,7 +4,6 @@ Cluster erstellen:
 
 Cluster löschen:
 
-
 kubectl delete -f Cluster.yaml
 
 
